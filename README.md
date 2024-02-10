@@ -1,5 +1,5 @@
 # NLW-Online_Auction_System
-NLW Online Auction System is a back-end project developed in C# that serves as an online auction system. It utilizes .NET Core framework for its implementation. It was built during the NLW Expert event, using VS Code Community.
+NLW Online Auction System is a back-end project developed in C# that serves as an online auction system. It utilizes .NET framework for its implementation and SQLite as database engine. It was built during the NLW Expert event, using VS Code Community.
 
 ## NuGet Packages Used:
 **For the source:**
